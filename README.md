@@ -1,6 +1,6 @@
 # Tagging
 
-Squid
+Squid!!
 
 [Gilly Lab](http://gillylab.stanford.edu/)
 
